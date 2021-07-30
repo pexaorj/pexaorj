@@ -33,4 +33,4 @@ Feel free to contact me there, I love to meet new people
 
   
   
-  ![Snake animation](https://github.com/pexaorj/pexaorj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
