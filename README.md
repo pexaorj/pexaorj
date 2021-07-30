@@ -1,3 +1,4 @@
+![Snake animation](pexaorj)
 ## Hi there 👋
 
 ### I am very interested in:
